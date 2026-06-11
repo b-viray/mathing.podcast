@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+*Mathing with Dan and Bianca* gives a glimpse of what mathematics looks
+like to working mathematicians.
+
+## Your hosts
+
+### Bianca Viray
+
+<!-- Replace with your preferred bio -->
+Bianca Viray is a mathematician. [Add a short bio here — research area,
+institution, links to your website, etc.]
+
+### Daniel Erman
+
+<!-- Replace with your preferred bio -->
+Daniel Erman is a mathematician. [Add a short bio here — research area,
+institution, links to your website, etc.]
+
+## Contact
+
+Questions, comments, or episode ideas? Reach us at
+[your-email@example.com](mailto:your-email@example.com).

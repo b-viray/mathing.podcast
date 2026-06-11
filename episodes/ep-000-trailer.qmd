@@ -1,0 +1,15 @@
+---
+title: "Episode 0: Trailer"
+description: "A preview of what's coming on Mathing with Dan and Bianca. (This is an example episode page — edit or delete it.)"
+date: 2026-06-10
+---
+
+<!-- This is an example episode so you can see how the listing pages look.
+     Edit it into your real trailer, or delete this file. -->
+
+Welcome to *Mathing with Dan and Bianca* — where we give a glimpse of
+what mathematics looks like to working mathematicians.
+
+## Show notes
+
+Coming soon!

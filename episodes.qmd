@@ -1,0 +1,10 @@
+---
+title: "Episodes"
+listing:
+  contents: episodes
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+---
+
+All episodes of *Mathing with Dan and Bianca*, newest first.

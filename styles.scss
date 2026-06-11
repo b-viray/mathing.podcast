@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// Tweak these to change the site's look
+$primary: #3b5b92;        // navbar + buttons (a calm mathematical blue)
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+.hero-text {
+  font-size: 1.15em;
+  max-width: 42rem;
+  margin: 1.5rem 0;
+}
+
+.subscribe-buttons {
+  margin: 2rem 0;
+
+  .btn {
+    margin-right: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Episode listing spacing
+div.quarto-post {
+  margin-bottom: 1.5em;
+}

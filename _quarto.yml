@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Mathing with Dan and Bianca"
+  description: "Where we give a glimpse of what mathematics looks like to working mathematicians"
+  # Replace with your actual domain once DNS is set up:
+  site-url: "https://www.example.com"
+  navbar:
+    background: primary
+    title: "Mathing with Dan and Bianca"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: episodes.qmd
+        text: Episodes
+      - href: about.qmd
+        text: About
+    right:
+      - icon: spotify
+        # Replace with your Spotify show URL once the podcast is live:
+        href: "https://open.spotify.com/show/YOUR_SHOW_ID"
+        aria-label: Spotify
+  page-footer:
+    center: |
+      © 2026 Bianca Viray & Daniel Erman
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    link-external-newwindow: true

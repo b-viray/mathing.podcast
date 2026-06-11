@@ -1,0 +1,36 @@
+---
+title: "Mathing with Dan and Bianca"
+subtitle: "Where we give a glimpse of what mathematics looks like to working mathematicians"
+listing:
+  contents: episodes
+  sort: "date desc"
+  type: default
+  max-items: 3
+  fields: [date, title, description]
+  id: recent-episodes
+---
+
+::: {.hero-text}
+A podcast hosted by **Bianca Viray** and **Daniel Erman**.
+
+What do mathematicians actually *do* all day? Join us as we talk about
+the practice of mathematics — the questions, the false starts, the
+collaborations, and the moments when things finally click.
+:::
+
+::: {.subscribe-buttons}
+[Listen on Spotify](https://open.spotify.com/show/YOUR_SHOW_ID){.btn .btn-primary .btn-lg}
+:::
+
+<!--
+When you have more subscribe links (Apple Podcasts, RSS, etc.), add more
+buttons inside the .subscribe-buttons div above, e.g.:
+[Apple Podcasts](URL){.btn .btn-outline-primary .btn-lg}
+-->
+
+## Recent episodes
+
+::: {#recent-episodes}
+:::
+
+[See all episodes →](episodes.qmd)
