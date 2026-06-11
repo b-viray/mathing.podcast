@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/episodes.html",
+    "items": [
+      "/episodes/ep-000-trailer.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/episodes/ep-000-trailer.html"
+    ]
+  }
+]
