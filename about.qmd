@@ -6,20 +6,11 @@ title: "About"
 like to working mathematicians.
 
 ## Your hosts
+![](images/dan-and-bianca.jpg){.host-photo width="50"}
+Dan and Bianca met the summer before starting grad school at the University of California, Berkeley in the prelim study class. They became study buddies and then office mates, and have been friends ever since. 
 
-### Bianca Viray
-
-<!-- Replace with your preferred bio -->
-Bianca Viray is a mathematician. [Add a short bio here — research area,
-institution, links to your website, etc.]
-
-### Daniel Erman
-
-<!-- Replace with your preferred bio -->
-Daniel Erman is a mathematician. [Add a short bio here — research area,
-institution, links to your website, etc.]
 
 ## Contact
 
-Questions, comments, or episode ideas? Reach us at
-[your-email@example.com](mailto:your-email@example.com).
+Questions or comments? Reach us at
+[mathing.podcast@gmail.com](mailto:mathing.podcast@gmail.com).
