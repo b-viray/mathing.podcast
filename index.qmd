@@ -14,8 +14,7 @@ listing:
 A podcast hosted by **Bianca Viray** and **Daniel Erman**.
 
 What do mathematicians actually *do* all day? Join us as we talk about
-the practice of mathematics — the questions, the false starts, the
-collaborations, and the moments when things finally click.
+the practice of mathematics — the questions, the false starts, and the moments when things finally click.
 :::
 
 ::: {.subscribe-buttons}
