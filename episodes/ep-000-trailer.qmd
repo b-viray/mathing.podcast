@@ -1,15 +1,12 @@
 ---
-title: "Episode 0: Trailer"
-description: "A preview of what's coming on Mathing with Dan and Bianca. (This is an example episode page — edit or delete it.)"
+title: "Episode 1: Solving Equations"
+description: "In this episode, we explore how various modern research topics in algebra and number theory stem from the fundamental desire to understand solutions to polynomial equations"
 date: 2026-06-10
 ---
-
-<!-- This is an example episode so you can see how the listing pages look.
-     Edit it into your real trailer, or delete this file. -->
 
 Welcome to *Mathing with Dan and Bianca* — where we give a glimpse of
 what mathematics looks like to working mathematicians.
 
 ## Show notes
 
-Coming soon!
+Jared Weinstein's [article](https://pubs.ams.org/journals/bull/2016-53-01/S0273-0979-2015-01515-6) on reciprocity laws.
