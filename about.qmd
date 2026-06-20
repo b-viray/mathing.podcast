@@ -6,7 +6,7 @@ title: "About"
 like to working mathematicians.
 
 ## Your hosts
-![](images/dan-and-bianca.jpg){.host-photo width="20"}
+![](images/dan-and-bianca.jpg){.host-photo}
 Dan and Bianca met the summer before starting grad school at the University of California, Berkeley in the prelim study class. They became study buddies and then office mates, and have been friends ever since. 
 
 
