@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/episodes.html</loc>
+    <lastmod>2026-06-20T04:32:57.949Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.example.com/about.html</loc>
+    <lastmod>2026-06-20T04:32:57.949Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.example.com/episodes/ep-101-solving-equations.html</loc>
+    <lastmod>2026-06-20T04:32:57.950Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.example.com/index.html</loc>
+    <lastmod>2026-06-20T04:32:57.950Z</lastmod>
+  </url>
+</urlset>

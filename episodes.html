@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mathing with Dan and Bianca</title>
+<title>Episodes – Mathing with Dan and Bianca</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-episodes .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -88,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-episodes'] = new List('listing-recent-episodes', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -152,11 +152,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./episodes.html"> 
+    <a class="nav-link active" href="./episodes.html" aria-current="page"> 
 <span class="menu-text">Episodes</span></a>
   </li>  
   <li class="nav-item">
@@ -187,8 +187,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mathing with Dan and Bianca</h1>
-<p class="subtitle lead">Where we give a glimpse of what mathematics looks like to working mathematicians</p>
+<h1 class="title">Episodes</h1>
 </div>
 
 
@@ -205,21 +204,12 @@ window.Quarto = {
 </header>
 
 
-<div class="hero-text">
-<p>A podcast hosted by <strong>Bianca Viray</strong> and <strong>Daniel Erman</strong>.</p>
-<p>What do mathematicians actually <em>do</em> all day? Join us as we talk about the practice of mathematics — the questions, the false starts, and the moments when things finally click.</p>
-</div>
-<div class="subscribe-buttons">
-<p><a href="https://open.spotify.com/show/YOUR_SHOW_ID" class="btn btn-primary btn-lg">Listen on Spotify</a></p>
-</div>
-<!--
-When you have more subscribe links (Apple Podcasts, RSS, etc.), add more
-buttons inside the .subscribe-buttons div above, e.g.:
-[Apple Podcasts](URL){.btn .btn-outline-primary .btn-lg}
--->
-<section id="recent-episodes" class="level2">
-<h2 class="anchored" data-anchor-id="recent-episodes">Recent episodes</h2>
-<div id="listing-recent-episodes" class="quarto-listing quarto-listing-container-default">
+<p>All episodes of <em>Mathing with Dan and Bianca</em>, newest first.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-date-sort="1781049600000" data-listing-file-modified-sort="1781929977950" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
 <div class="body">
@@ -240,14 +230,7 @@ Jun 10, 2026
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div>
-<p><a href="./episodes.html">See all episodes →</a></p>
-
-
-
-</section>
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
