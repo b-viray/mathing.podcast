@@ -31,7 +31,7 @@ website:
 format:
   html:
     theme:
-      - sketchy
+      - simplex
       - styles.scss
     toc: false
     link-external-newwindow: true
