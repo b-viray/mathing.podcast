@@ -1,2 +1,9 @@
+# Quarto build output — now rendered by GitHub Actions, no need to commit
+/docs/
 /.quarto/
-**/*.quarto_ipynb
+/_site/
+
+# Editor / OS cruft
+.DS_Store
+*_files/
+.Rproj.user

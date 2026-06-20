@@ -1,14 +1,16 @@
-name: Quarto Publish
+name: Render and Publish
 
 on:
   push:
-    branches: [ main, master ] # Triggers every time you save an update to main
+    branches: main
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -16,7 +18,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish to GitHub Pages
+      - name: Render and Publish to gh-pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
