@@ -1,1 +1,1 @@
-Sitemap: https://www.mathingpodcast.com/sitemap.xml
+Sitemap: https://www.example.com/sitemap.xml
