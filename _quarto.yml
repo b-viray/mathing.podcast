@@ -8,7 +8,7 @@ website:
   title: "Mathing with Dan and Bianca"
   description: "Where we give a glimpse of what mathematics looks like to working mathematicians"
   # Replace with your actual domain once DNS is set up:
-  site-url: "https://www.example.com"
+  site-url: "https://www.mathingpodcast.com"
   navbar:
     background: primary
     title: "Mathing with Dan and Bianca"
