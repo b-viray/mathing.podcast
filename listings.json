@@ -2,12 +2,14 @@
   {
     "listing": "/episodes.html",
     "items": [
+      "/episodes/ep-102-research-advice.html",
       "/episodes/ep-101-solving-equations.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/episodes/ep-102-research-advice.html",
       "/episodes/ep-101-solving-equations.html"
     ]
   }
