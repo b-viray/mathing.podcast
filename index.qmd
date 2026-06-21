@@ -18,8 +18,10 @@ the practice of mathematics — the questions, the false starts, and the moments
 :::
 
 ::: {.subscribe-buttons}
-[Listen on Spotify](https://open.spotify.com/show/YOUR_SHOW_ID){.btn .btn-primary .btn-lg}
+[Listen on Spotify](https://open.spotify.com/show/033j3FXEEKCblRpzYEdOt4){.btn .btn-primary .btn-lg}
+[Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/mathing-with-dan-and-bianca/id1896932866){.btn .btn-outline-primary .btn-lg}
 :::
+
 
 <!--
 When you have more subscribe links (Apple Podcasts, RSS, etc.), add more

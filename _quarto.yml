@@ -22,8 +22,11 @@ website:
     right:
       - icon: spotify
         # Replace with your Spotify show URL once the podcast is live:
-        href: "https://open.spotify.com/show/YOUR_SHOW_ID"
+        href: "https://open.spotify.com/show/033j3FXEEKCblRpzYEdOt4"
         aria-label: Spotify
+      - icon: apple
+        href: "https://podcasts.apple.com/us/podcast/mathing-with-dan-and-bianca/id1896932866"
+        aria-label: Apple Podcasts
   page-footer:
     center: |
       © 2026 Bianca Viray & Daniel Erman
