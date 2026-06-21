@@ -1,0 +1,11 @@
+---
+title: "Episode 2: Research Advice"
+description: "In this episode, we discuss some of the best advice we've received and how it has shaped our research."
+date: 2026-06-15
+---
+
+Welcome to *Mathing with Dan and Bianca* — where we give a glimpse of
+what mathematics looks like to working mathematicians.
+
+<!-- ## Show notes -->
+
