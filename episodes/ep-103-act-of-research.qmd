@@ -1,0 +1,10 @@
+---
+title: "Episode 3: The act of research"
+description: "In this episode, we discuss aspects of doing like what makes for a good research problem, what to do when you're stuck, and how to avoid proving false things."
+date: 2026-07-05
+---
+
+Welcome to *Mathing with Dan and Bianca* — where we give a glimpse of
+what mathematics looks like to working mathematicians.
+
+<!-- ## Show notes -->
