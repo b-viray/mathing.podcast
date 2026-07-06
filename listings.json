@@ -2,6 +2,7 @@
   {
     "listing": "/episodes.html",
     "items": [
+      "/episodes/ep-103-act-of-research.html",
       "/episodes/ep-102-research-advice.html",
       "/episodes/ep-101-solving-equations.html"
     ]
@@ -9,6 +10,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/episodes/ep-103-act-of-research.html",
       "/episodes/ep-102-research-advice.html",
       "/episodes/ep-101-solving-equations.html"
     ]
