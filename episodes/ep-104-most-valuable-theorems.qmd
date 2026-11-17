@@ -1,0 +1,8 @@
+---
+title: "Episode 4: Most Valuable Theorems"
+description: "We welcome math professor (and our close friend) Tony Várilly-Alvarado as guest. We ask: "What is the most valuable theorem that you cover in [various courses]?" We cover second semester calculus, linear algebra, graduate algebra, and graduate number theory, and you can hear our hot takes on trig substitution, the Rank-Nullity Theorem, and the Sylow Theorems."
+date: 2026-06-15
+---
+
+<!-- ## Show notes -->
+

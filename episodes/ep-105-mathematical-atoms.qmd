@@ -1,0 +1,8 @@
+---
+title: "Episode 5: Most Valuable Theorems"
+description: "In this episode, we discuss the periodic table as a metaphor for certain mathematical structures, and we consider the extent to which various theorems or research fit or don't fit into that paradigm."
+date: 2026-08-19
+---
+
+<!-- ## Show notes -->
+

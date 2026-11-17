@@ -1,0 +1,4 @@
+---
+title: "Episode 6: To AI or not to AI"
+description: "In this episode, we discuss some of the impacts of AI on mathematics and the mathematical community."
+date: 2026-11-19

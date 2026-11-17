@@ -1,0 +1,4 @@
+---
+title: "Episode 7: Rejection and feedback"
+description: "In this episode, we discuss our experiences with rejection and critical feedback in mathematics."
+date: 2026-11-29
